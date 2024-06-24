@@ -1,0 +1,18 @@
+IndicatorType,IndicatorValue,ExpirationTime,Action,Severity,Title,Description,RecommendedActions,Scope/DeviceGroups,Category,MitreTechniques,GenerateAlert
+FileMd5,63aa2ce33433d44f498880605ee04313,,BlockAndRemediate,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+FileMd5,b3b50b3e81d61c8b85770ce771d32168,,BlockAndRemediate,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+FileMd5,337d48261da1a0b48edd2c66991d1ac2,,BlockAndRemediate,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+FileSha1,b04bef931efdc0ff889d84461ad97dac48fee4fc,,BlockAndRemediate,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+FileSha1,bcaa55c55fc85cc6ba870ff21ff2617d377a3664,,BlockAndRemediate,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+FileSha1,18e6d1ad6ea38d64193deb68fa3ee3f877909b62,,BlockAndRemediate,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+FileSha256,5225d9f8fde5e11240a7035a6988b7ee3ffca419eea8ca473e845ba0502bad3b,,BlockAndRemediate,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+FileSha256,f5a27f4d46912178301012371749d82f32bec9a49556f6e337b6ab59ad0ae309,,BlockAndRemediate,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+FileSha256,b140a9cecee1cce415dec5608f8658b84e680d602f55281b35e3c01513fbf08c,,BlockAndRemediate,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+DomainName,agenziaentrate.mailtohelp.xyz,,Block,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+Url,https://agenziaentrate.mailtohelp.xyz/GWBI7H74fhGgtebteb5GSR,,Block,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+Url,https://agenziaentrate.mailtohelp.xyz/save-ip,,Block,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+Url,https://agenziaentrate.mailtohelp.xyz/payload,,Block,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+Url,https://agenziaentrate.mailtohelp.xyz/check-ip,,Block,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+IpAddress,104.194.143.5,,BlockAndRemediate,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+IpAddress,104.194.148.11,,BlockAndRemediate,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
+IpAddress,172.86.76.246,,BlockAndRemediate,High,Campagna Danabot Agenzia delle Entrate,,,,Malware,,True
