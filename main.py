@@ -24,6 +24,8 @@ def main():
         campaign_title = data[list(data.keys())[0]]["name"]
         # Extract json node containing iocs
         campaign_description = data[list(data.keys())[0]]["description"]
+        if campaign_description == "":
+            campaign_description = campaign_title
         campaign_iocs = data[list(data.keys())[0]]["ioc_list"]
 
         (ioc_writer, file) = open_csv(csv_path)
