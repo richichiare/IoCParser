@@ -70,7 +70,7 @@ def main():
                                  helper.TITLE:campaign_title, helper.DESCRIPTION:campaign_description,
                                  helper.CATEGORY:"Malware", helper.GEN_ALERT:"True"})
 
-        #write IPv4
+        #write IPv4 indicators
         ipv4_ioc = campaign_iocs["ipv4"]
         for item in ipv4_ioc:
             ioc_writer.writerow({helper.INDICATOR_TYPE:helper.IPADDR, helper.INDICATOR_VALUE:item,
