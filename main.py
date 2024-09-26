@@ -74,7 +74,7 @@ def main():
         ipv4_ioc = campaign_iocs["ipv4"]
         for item in ipv4_ioc:
             ioc_writer.writerow({helper.INDICATOR_TYPE:helper.IPADDR, helper.INDICATOR_VALUE:item,
-                                 helper.ACTION:helper.BLOCK_AND_REMEDIATE, helper.SEVERITY:helper.HIGH,
+                                 helper.ACTION:helper.BLOCK, helper.SEVERITY:helper.HIGH,
                                  helper.TITLE:campaign_title, helper.DESCRIPTION:campaign_description,
                                  helper.CATEGORY:"Malware", helper.GEN_ALERT:"True"})
 
